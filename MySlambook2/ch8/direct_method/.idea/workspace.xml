@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="direct_method" targetName="direct_method" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f71573b-0a89-4669-b9c5-023c2d27d790" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d/.idea/pose_estimation_2d2d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_2d2d/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/.idea/pose_estimation_3d2d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/1_depth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/2_depth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/.cmake/api/v1/reply/cache-v2-78858ee65e6d6b71ea96.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-81fb42fb5d6f49a92b02.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7dbdfec31bc62560d935.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-06T12-07-44-0458.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/.cmake/api/v1/reply/target-pose_estimation_3d2d-Debug-e0a8bf9f44e37b0a8318.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d2d/cmake-build-debug/pose_estimation_3d2d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/.idea/pose_estimation_3d3d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/1_depth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/2_depth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/.cmake/api/v1/reply/cache-v2-774ad5674a5ed4ed213c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-082e91560b8b9f218bf5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7ac023b22451afcf9d39.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-06T12-07-18-0046.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/.cmake/api/v1/reply/target-pose_estimation_3d3d-Debug-4c8df342af7036564196.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/pose_estimation_3d3d/cmake-build-debug/pose_estimation_3d3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/triangulation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/triangulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/triangulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/triangulation/.idea/triangulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch7/triangulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/direct_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/000001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/000002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/000003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/000004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/000005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LK1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LK2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-9050b2082b4fe5719297.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disparity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/.idea/optical_flow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/LK1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/LK2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3f8870d5a2f6a18386ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-42491b2e1cb50fce5139.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-941184db53bceecfd1f5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-06T12-27-21-0219.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/reply/target-optical_flow-Debug-db78f2449f8fa17013d9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-9050b2082b4fe5719297.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/cmake-build-debug/optical_flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../optical_flow/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="260oGlG0xBm0lFxIBgzMkSlLt4p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="direct_method" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="direct_method" TARGET_NAME="direct_method" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="direct_method" RUN_TARGET_NAME="direct_method">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f71573b-0a89-4669-b9c5-023c2d27d790" name="Changes" comment="" />
+      <created>1646569776015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646569776015</updated>
+      <workItem from="1646569777371" duration="1521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
