@@ -1,0 +1,21 @@
+/snap/clion/180/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/180/bin/ninja/linux/ninja -G Ninja /home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/g2o_BA
+-- Found installed version of Eigen: /usr/lib/cmake/eigen3
+-- Found required Ceres dependency: Eigen version 3.3.7 in /usr/include/eigen3
+-- Found required Ceres dependency: glog
+-- Found installed version of gflags: /usr/lib/x86_64-linux-gnu/cmake/gflags
+-- Detected gflags version: 2.2.2
+-- Found required Ceres dependency: gflags
+-- Found Ceres version: 2.0.0 installed in: /usr/local with components: [EigenSparse, SparseLinearAlgebraLibrary, LAPACK, SuiteSparse, CXSparse, SchurSpecializations]
+CMake Warning (dev) at /snap/clion/180/bin/cmake/linux/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake:438 (message):
+  The package name passed to `find_package_handle_standard_args` (CSPARSE)
+  does not match the name of the calling package (CSparse).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  cmake/FindCSparse.cmake:24 (find_package_handle_standard_args)
+  CMakeLists.txt:30 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/g2o_BA/cmake-build-debug

@@ -1,0 +1,5 @@
+# ninja log v5
+0	18257	1647222177188771962	CMakeFiles/pose_graph_g2o_lie_algebra.dir/main.cpp.o	9be093f8d1ca82d9
+18258	18703	1647222177652767436	pose_graph_g2o_lie_algebra	c8418af754af4ca1
+1	12926	1647222289623885684	CMakeFiles/pose_graph_g2o_lie_algebra.dir/main.cpp.o	9be093f8d1ca82d9
+12927	13387	1647222290095882790	pose_graph_g2o_lie_algebra	c8418af754af4ca1

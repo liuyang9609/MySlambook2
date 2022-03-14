@@ -1,0 +1,4 @@
+/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/g2o_BA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/g2o_BA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/g2o_BA/cmake-build-debug/CMakeFiles/bal_common.dir
+/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/g2o_BA/cmake-build-debug/CMakeFiles/g2o_BA.dir

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cere_BA",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bal_common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bal_common-Debug-f8b38c0c8f7c048e8784.json",
+					"name" : "bal_common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cere_BA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cere_BA-Debug-94ba9918de2580418eaa.json",
+					"name" : "cere_BA",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/cere_BA/cmake-build-debug",
+		"source" : "/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/cere_BA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

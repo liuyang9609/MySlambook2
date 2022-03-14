@@ -1,0 +1,4 @@
+/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/cere_BA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/cere_BA/cmake-build-debug/CMakeFiles/cere_BA.dir
+/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/cere_BA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch9/cere_BA/cmake-build-debug/CMakeFiles/bal_common.dir
