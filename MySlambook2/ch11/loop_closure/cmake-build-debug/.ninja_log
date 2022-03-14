@@ -1,0 +1,9 @@
+# ninja log v5
+1	795	1647227839267788694	CMakeFiles/loop_closure.dir/main.cpp.o	f9ae5e52237d0d8b
+796	1044	1647227839515790013	loop_closure	45e5d4015ca0adad
+1	749	1647227892216070621	CMakeFiles/loop_closure.dir/main.cpp.o	f9ae5e52237d0d8b
+749	944	1647227892408071645	loop_closure	45e5d4015ca0adad
+0	749	1647227906032144339	CMakeFiles/loop_closure.dir/main.cpp.o	f9ae5e52237d0d8b
+749	939	1647227906220145342	loop_closure	45e5d4015ca0adad
+0	747	1647227941968336349	CMakeFiles/loop_closure.dir/main.cpp.o	f9ae5e52237d0d8b
+747	947	1647227942164337397	loop_closure	45e5d4015ca0adad

@@ -1,0 +1,5 @@
+# ninja log v5
+807	1132	1647227540222218182	feature_training	45fcc38b0960ae67
+0	807	1647227539898216506	CMakeFiles/feature_training.dir/main.cpp.o	a0d35c92922c2eeb
+0	853	1647228058944624584	CMakeFiles/feature_training.dir/main.cpp.o	a0d35c92922c2eeb
+853	1071	1647228059156616823	feature_training	45fcc38b0960ae67
