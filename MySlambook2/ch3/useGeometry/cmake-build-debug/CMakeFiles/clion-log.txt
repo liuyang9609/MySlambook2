@@ -1,6 +1,6 @@
-/snap/clion/180/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/180/bin/ninja/linux/ninja -G Ninja /home/liuyang/MySLAM/SLAMProgramming/ch3/useGeometry
--- The C compiler identification is GNU 9.3.0
--- The CXX compiler identification is GNU 9.3.0
+/snap/clion/180/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/180/bin/ninja/linux/ninja -G Ninja /home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch3/useGeometry
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
 -- Check for working C compiler: /usr/bin/cc - skipped
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/liuyang/MySLAM/SLAMProgramming/ch3/useGeometry/cmake-build-debug
+-- Build files have been written to: /home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch3/useGeometry/cmake-build-debug

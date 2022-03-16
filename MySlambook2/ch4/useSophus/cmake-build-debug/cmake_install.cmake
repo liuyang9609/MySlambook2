@@ -1,4 +1,4 @@
-# Install script for directory: /home/liuyang/MySLAM/SLAMProgramming/ch4/useSophus
+# Install script for directory: /home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch4/useSophus
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/liuyang/MySLAM/SLAMProgramming/ch4/useSophus/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch4/useSophus/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

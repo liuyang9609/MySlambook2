@@ -20,8 +20,8 @@ int main(int argc, char **argv) {
     v_rotated = rotation_matrix * v;
     cout << "(1,0,0) after rotation (by matrix) = " <<v_rotated.transpose() << endl;
 
-    Vector3d euler_angles = rotation_matrix.eulerAngles(2,1,0);
-    cout << "yaw pitch roll = " << euler_angles.transpose() << endl;
+    Vector3d euler_angles = rotation_matrix.eulerAngles(2,1,0);  //z,y,x
+    cout << "yaw pitch roll = " << euler_angles.transpose() << endl;;
 
     Isometry3d T = Isometry3d::Identity();
     T.rotate(rotation_vector);

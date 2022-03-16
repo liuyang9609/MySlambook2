@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__useGeometry_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /snap/clion/180/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/liuyang/MySLAM/SLAMProgramming/ch3/useGeometry -B/home/liuyang/MySLAM/SLAMProgramming/ch3/useGeometry/cmake-build-debug
+  command = /snap/clion/180/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch3/useGeometry -B/home/liuyang/MySLAM/SLAMProgramming/MySlambook2/ch3/useGeometry/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

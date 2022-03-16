@@ -19,7 +19,7 @@ int main(int argc, char **argv) {
     // DBoW3::Vocabulary vocab("./vocab_larger.yml.gz");  // use large vocab if you want:
     if (vocab.empty()) {
         cerr << "Vocabulary does not exist." << endl;
-        return 1;
+        return -1;
     }
     cout << "reading images... " << endl;
     vector<Mat> images;
