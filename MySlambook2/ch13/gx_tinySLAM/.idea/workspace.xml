@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="gx_tinySLAM" targetName="myslam" />
+      <config projectName="gx_tinySLAM" targetName="gx_tinySLAM" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b10ba6fd-2b74-4232-af6f-8ade8f43cba8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gx_tinySLAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/gx_tinySLAM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake_modules/FindCSparse.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake_modules/FindG2O.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake_modules/FindGlog.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/default.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/algorithm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/backend.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/camera.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/common_include.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/dataset.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/feature.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/frame.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/frontend.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/g2o_types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/map.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/mappoint.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/viewer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/myslam/visual_odometry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backend.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/camera.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataset.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feature.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frame.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frontend.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mappoint.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/viewer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visual_odometry.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.4" />
+  </component>
+  <component name="ProjectId" id="26udxoWiKIvNOiJsVRjx00usVfv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../slambook2/ch13" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="CMake Application.gx_tinySLAM">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gx_tinySLAM" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gx_tinySLAM" TARGET_NAME="gx_tinySLAM" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="gx_tinySLAM" RUN_TARGET_NAME="gx_tinySLAM">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myslam" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="gx_tinySLAM" TARGET_NAME="myslam" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.gx_tinySLAM" />
+      <item itemvalue="CMake Application.myslam" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b10ba6fd-2b74-4232-af6f-8ade8f43cba8" name="Changes" comment="" />
+      <created>1648277654042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648277654042</updated>
+      <workItem from="1648277655373" duration="8519000" />
+      <workItem from="1648292756222" duration="4117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
