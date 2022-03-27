@@ -8,46 +8,41 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" BUILD_OPTIONS="-j 16" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b10ba6fd-2b74-4232-af6f-8ade8f43cba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gx_tinySLAM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/gx_tinySLAM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake_modules/FindCSparse.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake_modules/FindG2O.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake_modules/FindGlog.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/default.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/algorithm.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/backend.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/camera.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/common_include.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/config.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/dataset.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/feature.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/frame.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/frontend.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/g2o_types.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/map.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/mappoint.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/viewer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/myslam/visual_odometry.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backend.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/camera.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataset.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/feature.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/frame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/frontend.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mappoint.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/viewer.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visual_odometry.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-26T10-49-43-0184.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/algorithm.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/algorithm.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/backend.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/backend.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/camera.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/camera.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/config.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/dataset.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/dataset.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/feature.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/feature.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/frame.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/frame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/frontend.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/frontend.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/g2o_types.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/g2o_types.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/map.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/mappoint.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/mappoint.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/viewer.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/viewer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/myslam/visual_odometry.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/myslam/visual_odometry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/camera.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/camera.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataset.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataset.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/feature.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/feature.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/frame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/map.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mappoint.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/mappoint.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/viewer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/viewer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visual_odometry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/visual_odometry.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +83,7 @@
     <property name="cmake.loaded.for.project" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../slambook2/ch13" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RunManager" selected="CMake Application.gx_tinySLAM">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
@@ -120,6 +116,8 @@
       <updated>1648277654042</updated>
       <workItem from="1648277655373" duration="8519000" />
       <workItem from="1648292756222" duration="4117000" />
+      <workItem from="1648343413115" duration="7553000" />
+      <workItem from="1648354685720" duration="206000" />
     </task>
     <servers />
   </component>
@@ -139,5 +137,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

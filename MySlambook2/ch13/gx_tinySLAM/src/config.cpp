@@ -1,24 +1,27 @@
 #include "myslam/config.h"
 
 namespace myslam {
-bool Config::SetParameterFile(const std::string &filename) {
-    if (config_ == nullptr)
-        config_ = std::shared_ptr<Config>(new Config);
-//    config_->file_ = cv::FileStorage(filename.c_str(), cv::FileStorage::READ);
-    static cv::FileStorage file1( filename.c_str(), cv::FileStorage::READ ); config_->file_ = file1;
-    if (config_->file_.isOpened() == false) {
-        LOG(ERROR) << "parameter file " << filename << " does not exist.";
-        config_->file_.release();
-        return false;
+    bool Config::SetParameterFile(const std::string &filename) {
+        if (config_ == nullptr)
+            config_ = std::shared_ptr<Config>(new Config);
+
+//      20220327 change this to debug Error "Segmentation fault (core dumpted)"
+//      config_->file_ = cv::FileStorage(filename.c_str(), cv::FileStorage::READ);
+        static cv::FileStorage file1(filename.c_str(), cv::FileStorage::READ);  // new add
+        config_->file_ = file1;
+        if (config_->file_.isOpened() == false) {
+            LOG(ERROR) << "parameter file " << filename << " does not exist.";
+            config_->file_.release();
+            return false;
+        }
+        return true;
     }
-    return true;
-}
 
-Config::~Config() {
-    if (file_.isOpened())
-        file_.release();
-}
+    Config::~Config() {
+        if (file_.isOpened())
+            file_.release();
+    }
 
-std::shared_ptr<Config> Config::config_ = nullptr;
+    std::shared_ptr<Config> Config::config_ = nullptr;
 
 }
